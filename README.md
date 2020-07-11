@@ -3,7 +3,7 @@
 
 
 
-### Equipe
+### Aluno
 - [Henrique Gregório Silva](https://github.com/HgregorioSilva)
 
 
